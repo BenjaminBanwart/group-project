@@ -25,6 +25,13 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.benjamin-style {
+    color: #64ffda;
+    background-color: #0a192f;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+
 .ben-style {
     color: rgb(106, 159, 119);
     background-color: rgb(12, 26, 30);
