@@ -1,6 +1,7 @@
 # Hey! Let's learn about GitHub commands! 
 
 ## Contributed to by Ben Froehlich
+## Contributed to by Benjamin Banwart
 
 ## Follow this sequence in order to correctly fork and clone this repository:
 
